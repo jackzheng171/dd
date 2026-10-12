@@ -1,0 +1,15 @@
+Ok, thats fine. Meshing is the main challenge  好的，这没问题。网格划分是主要的挑战
+
+https://lbpw-ftp.larc.nasa.gov/sbpw2/    here is the link NASA Sonic Boom WorkShop 2   https://lbpw-ftp.larc.nasa.gov/sbpw2/ 这是 NASA 声爆研讨会 2 的链接
+
+it has geometry, mesh, and results 它包含几何结构、网格和结果
+
+I suggest you first take AXIE body or JAXA Wing Body (jwb) as these are simplest geometry  我建议你先使用 AXIE 机身或 JAXA 机翼机身（JWB），因为它们的几何结构最为简单
+
+and we need to create Mach Aligned Cone mesh....https://ntrs.nasa.gov/api/citations/20230007517/downloads/AIAA_Aviation_2023_Chase_Ashby_Manuscript.pdf   
+我们需要创建马赫对齐的圆锥网格……https://ntrs.nasa.gov/api/citations/20230007517/downloads/AIAA_Aviation_2023_Chase_Ashby_手稿.pdf
+
+this kind of mesh helps to get more accurate results with less cells count 这种网格有助于在减少单元格数量的同时获得更准确的结果
+
+
+
